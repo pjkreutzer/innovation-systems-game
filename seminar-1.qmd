@@ -1,0 +1,24 @@
+# Seminar 1: Inside Innovation Systems for Sustainability Transitions {.unnumbered}
+
+The goal of this seminar is to provide you with a deeper understanding of why innovation systems are useful analytical tools.
+While you will have to read @hekkert2007FunctionsInnovationSystems for the assignment in [seminar 2](seminar-2.qmd), for this seminar the only reading are the game rules below.
+Please make sure that you read through and understand the rules.
+Before starting the seminar, we will clarify any questions you have.
+
+## Learning Objectives 
+
+### Functions of Innovation Systems 
+
+- Understand and describe how the motors of change [@hekkert2007FunctionsInnovationSystems] relate to the seven innovation system functions.
+
+### Systems Thinking: Surprises of Innovation Systems 
+
+- Realize bounded rationality of actors in specific roles.
+- The role that delays play in feedback loops.
+
+
+### Sustainability 
+
+- The need for sustainability to be constantly negotiated among stakeholders
+
+- How interaction in innovation systems affects sustainability objectives.

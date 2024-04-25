@@ -1,0 +1,138 @@
+---
+title: "Innovation Systems For Sustainability"
+author: Jonas Kreutzer <br> [[\@pjkreutzer](https://linktr.ee/pjkreutzer)]{.title-social}
+date: 2023-06-15
+bibliography: references.bib
+csl: https://zotero.org/styles/apa?source=1
+link-citations: true
+link-bibliography: true
+colorlinks: true
+format: 
+    pjk_theme-revealjs:
+        standalone: true
+        embed-resources: true
+        revealjs-plugins: 
+            - attribution
+
+---
+
+## reflection
+<style>
+     #reflection-questions p{
+        margin-bottom: 2rem;
+    }
+</style>
+
+What surprised you in the way the game unfolded? Were there critical moments in which the game could have developed differently?
+
+What would have been needed to have a different game?
+
+## Innovation Iceberg Heuristic
+
+![](https://pjkreutzer.github.io/teaching-innovation-sustainability/assets/iceberg.jpg)
+
+# Innovation Systems -- A Brief Introduction
+
+## Innovation System Functions
+
+1. Entrepreneurial Activities
+2. Knowledge Development
+3. Knowledge Diffusion Through Networks
+4. Guidance of the Search
+5. Market Formation
+6. Resources Mobilisation
+7. Creation of Legitimacy
+
+[@hekkert2007FunctionsInnovationSystems]{.slide-cite}
+
+## Motors of Change
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0040162506000564-gr2.jpg)
+
+:::{.fragment style="position: absolute; bottom: 25%; right: 0%; width: 35%; height: 33%; background-color: hsla(4, 80%, 63%, 0.8); border-radius:5px;"}
+:::
+
+[@hekkert2007FunctionsInnovationSystems 426]{.slide-cite}
+
+## Assess Innovation Systems
+
+**Function 6, resources mobilisation:** 
+
+- Are there sufficient financial resources for system development? 
+
+- Do they correspond with the system’s needs? 
+
+- What are they mainly used for (research/application/ pilot projects etc.)? 
+
+- Is there sufficient risk capital? 
+
+- Is there adequate public funding? 
+
+- Can companies easily access the resources?
+
+## Leverage Points to Intervene in Systems
+
+![](https://uploads-ssl.webflow.com/619ab5836de9f0fbb8722d9b/619ab5836de9f01fc0723247_Systems-Thinking-post-Figure-2.png)
+
+[@meadows2009LeveragePointsPlaces]{.slide-cite}
+
+:::{.attribution style="color: hsl(210, 11%, 71%);"}
+Image credit: [Monash University](https://www.behaviourworksaustralia.org/blog/how-systems-thinking-compliments-behavioural-approaches-in-solving-complex-problems)
+:::
+
+## Systemic Policy Tools
+
+![](assets/systemic-policy-framework.png)
+
+[@wieczorek2012SystemicInstrumentsSystemic 84]{.slide-cite}
+
+## reflection
+
+What role do you (personally) have at Energymyndigheten? Was it different from your role in the game? How did you view the role that you usually have in the game?
+
+What aspects of the game did you recognize from reality?
+
+<style>
+     #reflection-questions p{
+        margin-bottom: 2rem;
+    }
+</style>
+
+# Innovation is a systemic event. Appyling systemic tools can help identify new solutions to stubborn problems.
+
+## Game Resources
+
+{{< qrcode  https://pjkreutzer.github.io/teaching-innovation-sustainability/seminar-facilitator.html width=450 height=450 colorDark="hsl(227, 71%, 55%)" >}}
+
+[https://pjkreutzer.github.io/teaching-innovation-sustainability/seminar-facilitator.html](https://pjkreutzer.github.io/teaching-innovation-sustainability/seminar-facilitator.html)
+
+
+<style>
+    .qrcode {
+        display: flex;
+        position: relative;
+        justify-content: center;
+        border-radius: 0px;
+        }
+</style>
+
+****
+
+## Feedback 
+
+![](assets/feedback-qr.png){.container width=450 height=450}
+
+[https://forms.office.com/e/9yesS7saGb](https://forms.office.com/e/9yesS7saGb)
+
+<style>
+    .container {
+        display: flex;
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        colorDark: hsl(227, 71%, 55%);
+        }
+</style>
+
+## References

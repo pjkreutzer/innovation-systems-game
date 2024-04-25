@@ -1,0 +1,36 @@
+project:
+  type: book
+
+book:
+  title: "Innovation Systems for Sustainability -- Simulation Game"
+  author: <a href="https://pjkreutzer.github.io" target="_blank" rel="noopener">Jonas Kreutzer</a>
+  date: last-modified
+  date-format: long
+  chapters:
+    - index.qmd
+    - rules.qmd
+    - part: teaching.qmd
+      chapters:
+        - seminar-1.qmd
+        - seminar-2.qmd
+    # - part: standalone.qmd
+    #   chapters:
+    #      - policy-makers.qmd
+    #      - innovators.qmd       
+    - references.qmd
+
+  page-footer: "Copyright 2022, Jonas Kreutzer"
+
+  twitter-card: 
+    card-style: summary
+    image: "/assets/cards.png"
+    creator: "@pj_kreutzer"
+
+  site-url: "https://pjkreutzer.github.io/innovation-systems-game"  
+
+bibliography: references.bib
+
+format:
+  pjk_theme-html
+
+
