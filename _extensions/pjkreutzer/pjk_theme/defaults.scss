@@ -75,10 +75,28 @@ $callout-color-tip: $success !default;
 $callout-color-important: $danger !default;
 $callout-color-warning: $warning !default;
 
-@each $color-name, $color-value in $theme-colors {
+
+// colors
+
+@each $color-name in $color-names {
     .text-#{$color-name} {
-        color: $color-value;
+        color: map-get($theme-colors, $color-name);
+    }
+
+    .bg-#{$color-name} {
+        background-color: map-get($theme-colors, $color-name);
     }
 }
 
 /*-- scss:rules --*/
+
+
+a {
+    position: relative;
+    color: inherit;
+}
+
+a:hover {
+    color: $primary;
+    text-decoration: underline;
+}
