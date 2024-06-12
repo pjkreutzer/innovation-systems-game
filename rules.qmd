@@ -1,3 +1,7 @@
+---
+pagetitle: Rules | Innovation Systems Game
+---
+
 # Rules Simulation Game of Innovation and Sustainability {.unnumbered}
 
 The overall aim of the game is to simulate how an innovation system navigates innovation for sustainability.
@@ -62,11 +66,11 @@ They can decide if from which pile to draw: red stands for product and black for
 
 ### 3. Innovation 
 
-When the innovators have collected a pair of cards in the same color (red, black), they can play them as an innovation.
+When the innovators have collected a pair of cards of the same value, they can play them as an innovation.
 The innovation then adds to the scoreboards.
 For an economic innovation, twice the sum of the face values is added to the economic indicator (Aces count as 1, J,Q,K as ten).
 If an environmental innovation is played, only its sum is added, at the same time one point is added to the environmental indicator.
-If the innovators have both a process and a product at the same time, the effects of the innovation are doubled.
+If the innovators play four of a kind at the same time, the effects of the innovation are doubled.
 
 > _Example:_ The innovators play the pair 6 of hearts and 6 of diamonds as an economic process innovation.
 The economic indicator increases by 24 points.
