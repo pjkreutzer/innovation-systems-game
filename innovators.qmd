@@ -1,0 +1,26 @@
+---
+pagetitle: Entrepreneurs | Innovation Systems Game
+---
+
+# For Entrepreneurs {.unnumbered}
+As an entrepreneur or innovator, you can benefit from taking a systems perspective in different ways.
+
+## Slides
+
+::::{.container}
+<iframe class="responsive-iframe" src="/_innovators-presentation.html"></iframe>
+
+::::
+
+<!-- @planko2017CombiningTechnologicalInnovation
+
+Functions 1 - 3 percieved as the same function by entrepreneurs in electricity grids.
+Need for more coordination to not reinvent the wheel, most important activity.
+Need to focus also on users not only technology research and to diffuse knowledge to users.
+
+Resource mobilization doubted as own function, viewed as basis for all functions.
+
+Market formation split into two subfunctions:
+
+1. Government market formation -> through regulation not price interference
+2. Private actors -->
