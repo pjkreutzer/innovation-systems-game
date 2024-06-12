@@ -13,18 +13,18 @@ book:
       chapters:
         - seminar-1.qmd
         - seminar-2.qmd
-    # - part: standalone.qmd
-    #   chapters:
-    #      - policy-makers.qmd
-    #      - innovators.qmd       
+    - part: standalone.qmd
+      chapters:
+        #  - policy-makers.qmd
+         - innovators.qmd       
     - references.qmd
 
-  page-footer: "Copyright 2022, Jonas Kreutzer"
+  page-footer: "Copyright 2024, Jonas Kreutzer"
 
   twitter-card: 
     card-style: summary
     image: "/assets/cards.png"
-    creator: "@pj_kreutzer"
+    creator: "@pjkreutzer"
 
   site-url: "https://pjkreutzer.github.io/innovation-systems-game"  
 
