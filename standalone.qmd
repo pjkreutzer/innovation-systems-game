@@ -1,0 +1,7 @@
+---
+pagetitle: Standalone | Innovation Systems Game
+title: Standalone Workshops
+---
+
+This game can also be used for standalone workshops.
+For example with policymakers or entrepreneurs.
