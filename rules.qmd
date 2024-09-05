@@ -2,7 +2,7 @@
 pagetitle: Rules | Innovation Systems Game
 ---
 
-# Rules Simulation Game of Innovation and Sustainability {.unnumbered}
+# Rules {.unnumbered}
 
 The overall aim of the game is to simulate how an innovation system navigates innovation for sustainability.
 Each role has their own personal goals in the game.
@@ -52,7 +52,7 @@ If the government is not re-elected, another player can be nominated and voted i
 At the beginning of each round, the innovation goals are formulated.
 While the university researcher is free to set their goals, the company researchers have to follow the orders of the industry player.
 
-> _Example:_ Industry decides that they want a new economic product innovation. If the innovators can, they must play a product innovation for the economy in step 3.
+> _Example:_ Industry decides that they want a new economic innovation. If the innovators can, they must play a innovation for the economy in step 3.
 
 At this step, the industry and the Government also decide how much they want to spend on innovation in this round.
 One card costs 5 points subtracted from the economic indicator.
@@ -62,7 +62,6 @@ One card costs 5 points subtracted from the economic indicator.
 ### 2. Innovators draw cards 
 
 Each innovator draws cards according to their budget.
-They can decide if from which pile to draw: red stands for product and black for process innovations.
 
 ### 3. Innovation 
 
