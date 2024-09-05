@@ -1,3 +1,7 @@
+---
+pagetitle: Seminar 1 | Innovation Systems Game
+---
+
 # Seminar 1: Inside Innovation Systems for Sustainability Transitions {.unnumbered}
 
 The goal of this seminar is to provide you with a deeper understanding of why innovation systems are useful analytical tools.
