@@ -2,11 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pjkreutzer.github.io/innovation-systems-game/index.html</loc>
-    <lastmod>2024-09-05T14:44:35.583Z</lastmod>
+    <lastmod>2026-11-24T13:44:33.777Z</lastmod>
   </url>
   <url>
     <loc>https://pjkreutzer.github.io/innovation-systems-game/rules.html</loc>
-    <lastmod>2024-09-05T14:43:48.035Z</lastmod>
+    <lastmod>2026-11-24T13:40:38.537Z</lastmod>
+  </url>
+  <url>
+    <loc>https://pjkreutzer.github.io/innovation-systems-game/teaching.html</loc>
+    <lastmod>2024-06-12T15:30:51.908Z</lastmod>
   </url>
   <url>
     <loc>https://pjkreutzer.github.io/innovation-systems-game/seminar-1.html</loc>
@@ -17,19 +21,15 @@
     <lastmod>2024-06-12T15:30:52.387Z</lastmod>
   </url>
   <url>
+    <loc>https://pjkreutzer.github.io/innovation-systems-game/standalone.html</loc>
+    <lastmod>2026-05-17T16:31:10.195Z</lastmod>
+  </url>
+  <url>
     <loc>https://pjkreutzer.github.io/innovation-systems-game/innovators.html</loc>
     <lastmod>2024-06-12T15:30:51.443Z</lastmod>
   </url>
   <url>
     <loc>https://pjkreutzer.github.io/innovation-systems-game/references.html</loc>
     <lastmod>2024-04-25T12:30:25.059Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pjkreutzer.github.io/innovation-systems-game/teaching.html</loc>
-    <lastmod>2024-06-12T15:30:51.908Z</lastmod>
-  </url>
-  <url>
-    <loc>https://pjkreutzer.github.io/innovation-systems-game/standalone.html</loc>
-    <lastmod>2024-06-12T15:30:50.965Z</lastmod>
   </url>
 </urlset>
