@@ -1,0 +1,168 @@
+---
+title: "Innovation Systems For Sustainability"
+author: Jonas Kreutzer <br> [[\@pjkreutzer](https://bento.me/pjkreutzer)]{.title-social}
+date: last-modified
+bibliography: references.bib
+csl: https://zotero.org/styles/apa?source=1
+link-citations: true
+link-bibliography: true
+colorlinks: true
+
+filters: 
+  - timer
+
+from: markdown+emoji
+
+format: 
+    pjk_theme-revealjs:
+        standalone: true
+        embed-resources: true
+        revealjs-plugins: 
+            - attribution
+        output-file: _innovators-presentation.html
+---
+
+## Recap
+
+![Simulation Game Overview](assets/is_overview.png){#fig-is-overview}
+
+---
+
+![Development Process](assets/planning_process.png){#fig-is-development}
+
+[[see also @lew2021GamebasedLearningTeaching;@fischer2020GamificationNovelDidactical]]{.slide-cite}
+
+## Key Factors for Successful Teaching Games
+
+1. Learning goals trump gameplay [@westera2019WhyHowSerious]
+2. Game fits into learning context [@loon2015LearningStrategicManagement;@gonzalez-gonzalez2021LimitsGamification;@lew2021GamebasedLearningTeaching]
+3. Provide space for reflection: (before), during, after [@westera2019WhyHowSerious;@lew2021GamebasedLearningTeaching]
+
+<style>
+
+.base-timer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+</style>
+
+# The Game {.inverted}
+
+## Rule Reminder 
+
+:::{.r-fit-text}
+
+1. Set innovation goals 🎯
+2. Innovators draw cards 💸
+3. Innovators may play cards 🛠️
+4. Consume (while 2 and 3 happen) 🛍️
+5. Discuss outcomes and state of game 💬
+6. Negotiate innovation goals. Fight to make your role happy with how it is going! 📣
+
+:::
+
+## Round 1
+
+:::{.timer #ROUND-1 seconds=300 starton=interaction}
+:::
+
+
+## Round 2
+
+:::{.timer #ROUND-2 seconds=300 starton=interaction}
+:::
+
+
+## Round 3 --- Election 🗳️
+
+:::{.timer #ROUND-3 seconds=180 starton=interaction}
+:::
+
+
+## Round 4
+
+:::{.timer #ROUND-4 seconds=180 starton=interaction}
+:::
+
+
+## Round 5 --- 🏁 Last Round! 
+
+
+:::{.timer #ROUND-5 seconds=180 starton=interaction}
+:::
+
+## Reflection
+
+What surprised you in the way the game unfolded? Were there critical moments in which the game could have developed differently?
+
+What would have been needed to have a different game?
+
+What types of innovation did you notice?
+Who was responsible for them? Where did they originate from?
+
+## Innovation Iceberg Heuristic
+
+![](https://pjkreutzer.github.io/teaching-innovation-sustainability/assets/iceberg.jpg)
+
+# Innovation Systems -- A Brief Introduction
+
+## Innovation System Functions
+
+1. Entrepreneurial Activities
+2. Knowledge Development
+3. Knowledge Diffusion Through Networks
+4. Guidance of the Search
+5. Market Formation
+6. Resources Mobilisation
+7. Creation of Legitimacy
+
+[@hekkert2007FunctionsInnovationSystems]{.slide-cite}
+
+## Motors of Change
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0040162506000564-gr2.jpg)
+
+:::{.fragment style="position: absolute; bottom: 25%; right: 0%; width: 35%; height: 33%; background-color: hsla(4, 80%, 63%, 0.8); border-radius:5px;"}
+:::
+
+[@hekkert2007FunctionsInnovationSystems 426]{.slide-cite}
+
+
+## Game Resources
+
+{{< qrcode  https://pjkreutzer.github.io/innovation-systems-game/  qrgame width=450 height=450 colorDark="hsl(227, 71%, 55%)" >}}
+
+
+[https://pjkreutzer.github.io/innovation-systems-game/](https://pjkreutzer.github.io/innovation-systems-game/)
+
+
+## Feedback 
+
+{{< qrcode  https://forms.office.com/e/9yesS7saGb qrfeedback width=450 height=450 colorDark="hsl(227, 71%, 55%)" >}}
+
+
+[https://forms.office.com/e/9yesS7saGb](https://forms.office.com/e/9yesS7saGb)
+
+<style>
+    .container {
+        display: flex;
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        border-radius: 5px;
+        colorDark: hsl(227, 71%, 55%);
+        }
+</style>
+
+## Feedback II: Improvements of Market Mechanism
+
+How can I include market mechanisms that,
+
+1) make the game more realistic and covers more motors of change and 
+   
+1) make the game more engaging for citizens?
+
+
+## References

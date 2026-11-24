@@ -2,3 +2,6 @@
 /_book/
 /.luarc.json
 /_site/
+**/*.quarto_ipynb
+/simulations/
+/eist_perspective*/

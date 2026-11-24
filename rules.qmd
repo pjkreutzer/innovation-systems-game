@@ -67,13 +67,13 @@ Each innovator draws cards according to their budget.
 
 When the innovators have collected a pair of cards of the same value, they can play them as an innovation.
 The innovation then adds to the scoreboards.
-For an economic innovation, twice the sum of the face values is added to the economic indicator (Aces count as 1, J,Q,K as ten).
+For an economic innovation, twice the sum of the face values is added to the economic indicator (Aces count as 1, J,Q,K as 11--13, respectively).
 If an environmental innovation is played, only its sum is added, at the same time one point is added to the environmental indicator.
 If the innovators play four of a kind at the same time, the effects of the innovation are doubled.
 
-> _Example:_ The innovators play the pair 6 of hearts and 6 of diamonds as an economic process innovation.
-The economic indicator increases by 24 points.
-The innovators play 4 kings as a radical environmental innovation; 40 points are added to the economic indicator (4*10) and the environment improves by 2.
+> _Example:_ The innovators play the pair 6 an economic innovation.
+The economic indicator increases by 24 ($\underbrace{2\times}_{\text{Economic Innovation Multiplier}}(6+6)$) points.
+The innovators play 4 kings as an environmental innovation; 104 points are added to the economic indicator ($\underbrace{2\times}_{\text{Quad Multiplier}}(13+13+13+13)$) and the environment improves by 2.
 
 If no innovation can be played, the innovators keep the cards they drew in their hands.
 
@@ -82,6 +82,26 @@ If no innovation can be played, the innovators keep the cards they drew in their
 Each round the citizens decide if they want to consume a regular product or an environmental product, adding 5 or 3 points to the economy indicator, respectively. 
 The citizens aim to maximize their consumption in accordance with their environmental preferences stated on their cards.
 They also have different preferences for the state of the economy.
+
+::: {.callout-warning collapse="true"}
+
+### 4 Alternative in Development: Market
+
+I am currently developing an alternative involving a market feedback mechanism, to make the game more realistic and give citizens more influence.
+This is not yet fully tested, so it may still have a few rough edges.
+
+Instead of consuming, citizens get a budget of 2--3 tokens (the precise budget is subject to further testing).
+With these tokens, they decide which innovations to adopt.
+An innovation is adopted if it receives at least one token.
+
+To keep the game easy to facilitate and avoid idle time, citizens adopt innovations developed in the previous round.
+
+> _Example:_ Innovators play one economic innovation, and one environmental innovation in Round 1. In Round 2 the citizens use their tokens to decide which of these innovations to adopt. They choose to give all their tokens to the economic innovation. The economic innovation enters into the score, the environmental innovation remains on the market for two more rounds, before being returned to the deck. Innovators prepare and place innovations that become available in Round 3.
+
+The fundamental mechanic is tested and works well. There is still more testing required to determine the correct budget and the duration after which innovations disappear from the market.
+
+:::
+
 
 ### 5. Evaluating the Outcomes 
 

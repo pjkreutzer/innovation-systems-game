@@ -20,9 +20,10 @@ pagetitle: Innovation Systems Game | PJK
 The only things you really need are a standard card deck with 52 cards and the role cards.
 A watch and a score board will make the game easier to facilitate.
 
+
 ### Role Cards
 
-{{< downloadthis seminar-materials/role-cards.docx dname="role-cards.docx" label="Download docx file" type="primary" >}}
+{{< downloadthis seminar-materials/files.zip dname="role-card-package" label="Download pdf files" type="primary" >}}
 
 For each role there is a role card.
 The government and industry should be given out _only_ once.
@@ -42,6 +43,18 @@ You may also ask the group if they want to switch some roles voluntarily at this
 To help with keeping score, you can download an excel tool.
 By splitting the workbook view, you can show one sheet to the students which automatically updates when you insert the points of each round.
 Comments in the file will show you how it works.
+
+::: {.callout-warning collapse="true"}
+
+### Alternative in Development: Market
+
+If you want to play with the market mechanism, you need some form of token with which citizens choose which innovation to adopt.
+
+{{< downloadthis seminar-materials/tokens.pdf dname="tokens.pdf" label="Download pdf file" type="primary" >}}
+
+
+:::
+
 
 ## Game Instructions and Player Rules
 
